@@ -1,4 +1,4 @@
-# repo-velyn
+# Perbedaan fungsional programming dan Object Oriented Programming pada python dan contoh kode program
 Functional programming (FP) dan Object-Oriented Programming (OOP) adalah paradigma pemrograman yang berbeda. FP berfokus pada fungsi sebagai unit dasar dalam pemrograman, sedangkan OOP berfokus pada objek sebagai unit dasar. Python mendukung keduanya, namun lebih banyak digunakan untuk OOP.
 
 Perbedaan lainnya antara FP dan OOP adalah sebagai berikut:
