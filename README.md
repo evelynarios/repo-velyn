@@ -8,3 +8,5 @@ Immutability: FP cenderung menggunakan variabel yang tidak dapat diubah (immutab
 Side effects: FP berusaha untuk menghindari side effects, yaitu perubahan pada nilai variabel yang menyebabkan efek samping pada program, sedangkan OOP memungkinkan terjadinya side effects.
 
 Data flow: FP menggunakan pendekatan data flow, yaitu mengalirkan data dari satu fungsi ke fungsi lainnya, sedangkan OOP menggunakan pendekatan control flow, yaitu mengalirkan kontrol program dari satu objek ke objek lainnya.
+
+Untuk contoh kode program dapat dilihat pada branch pbo.
