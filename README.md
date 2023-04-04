@@ -9,4 +9,4 @@ Side effects: FP berusaha untuk menghindari side effects, yaitu perubahan pada n
 
 Data flow: FP menggunakan pendekatan data flow, yaitu mengalirkan data dari satu fungsi ke fungsi lainnya, sedangkan OOP menggunakan pendekatan control flow, yaitu mengalirkan kontrol program dari satu objek ke objek lainnya.
 
-Untuk contoh kode program dapat dilihat pada branch pbo.
+Untuk contoh kode program dapat dilihat juga pada branch pbo.
